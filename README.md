@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Nithun — a tech enthusiast who learns by building and breaking things.<br><br>💻 Currently working with:<br>    ⚙️ Dart & Flutter – Crafting cross-platform apps<br>    🐍 Python – Automating, scripting, and diving into AI/ML fundamentals<br>      🤖 AI Prompt Engineering – Exploring how to communicate with LLMs<br><br>🧠 Passionate about:<br>    🔍 Problem-solving & system thinking<br>    🔒 Open-source & Linux<br>    📈 Constantly learning and evolving<br><br>
+Hi there 👋<br>I'm Nithun — a tech enthusiast who learns by building and breaking things.<br><br>💻 Currently working with:<br>    ⚙️ Dart & Flutter – Crafting cross-platform apps<br>    🐍 Python – Automating, scripting, and diving into AI/ML fundamentals<br>         🤖 AI Prompt Engineering – Exploring how to communicate with LLMs<br><br>🧠 Passionate about:<br>    🔍 Problem-solving & system thinking<br>    🔒 Open-source & Linux<br>    📈 Constantly learning and evolving<br><br>
 
 
 ## 🌐 Socials:
