@@ -1,5 +1,5 @@
 # About Me:
-Hi there 👋<br>I'm Nithun — a tech enthusiast driven by a passion for learning through building and experimentation.I am currently focused on Dart & Flutter for cross-platform app development,Python for automation, scripting, and foundational AI/ML work, and AI Prompt Engineering to enhance interactions with large language models.
+Hi there 👋<br>I'm Nithun — a tech enthusiast driven by a passion for learning through building and experimentation.I am currently focused on Dart & Flutter for cross-platform app development,Python for automation,scripting, and foundational AI/ML work, and AI Prompt Engineering to enhance interactions with large language models.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nithun_____) 
